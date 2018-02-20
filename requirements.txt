@@ -1,0 +1,6 @@
+Django==2.0.2
+grpcio==1.9.1
+grpcio-tools==1.9.1
+protobuf==3.5.1
+pytz==2018.3
+six==1.11.0
